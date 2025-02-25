@@ -463,8 +463,8 @@
                                 <XCUIElementTypeStaticText elementType="48" identifier="" value="富途TCR realm 返回自定义域名问题" label="" title="" enabled="true" selected="false" x="1121" y="1267" width="228" height="20"></XCUIElementTypeStaticText>
                                 <XCUIElementTypeStaticText elementType="48" identifier="" value="fanjiankong: [Photo]" label="" title="" enabled="true" selected="false" x="1121" y="1290" width="117" height="18"></XCUIElementTypeStaticText>
                                 <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="1072" y="1318" width="218" height="1"></XCUIElementTypeGroup>
-                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2024/8/30" label="" title="" enabled="true" selected="false" x="1224" y="1290" width="63" height="18"></XCUIElementTypeStaticText>
-                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="1242" y="1269" width="0" height="14"></XCUIElementTypeTextView>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2024/8/30" label="" title="" enabled="true" selected="false" x="1223" y="1290" width="63" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="1060" y="1305" width="40" height="12"></XCUIElementTypeTextView>
                             </XCUIElementTypeCell>
                         </XCUIElementTypeTableRow>
                         <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="1056" y="1319" width="250" height="64">
@@ -484,8 +484,8 @@
                                 <XCUIElementTypeStaticText elementType="48" identifier="" value="富途 TCR 需求专项支持群" label="" title="" enabled="true" selected="false" x="1121" y="1395" width="162" height="20"></XCUIElementTypeStaticText>
                                 <XCUIElementTypeStaticText elementType="48" identifier="" value="fanjiankong: 重新push 下，会触发这个镜像的同步。" label="" title="" enabled="true" selected="false" x="1121" y="1418" width="280" height="18"></XCUIElementTypeStaticText>
                                 <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="1072" y="1446" width="218" height="1"></XCUIElementTypeGroup>
-                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2023/12/12" label="" title="" enabled="true" selected="false" x="1223" y="1418" width="65" height="18"></XCUIElementTypeStaticText>
-                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="1060" y="1433" width="40" height="12"></XCUIElementTypeTextView>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2023/12/12" label="" title="" enabled="true" selected="false" x="1224" y="1418" width="65" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="1242" y="1397" width="0" height="14"></XCUIElementTypeTextView>
                             </XCUIElementTypeCell>
                         </XCUIElementTypeTableRow>
                         <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="1056" y="1447" width="250" height="64">
