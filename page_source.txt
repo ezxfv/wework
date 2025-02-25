@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XCUIElementTypeApplication elementType="2" identifier="" label="" title="WeCom" enabled="false" selected="false" x="0" y="0" width="0" height="0">
+    <XCUIElementTypeWindow elementType="4" identifier="" label="" title="WeCom" enabled="false" selected="false" x="743" y="213" width="1000" height="700">
+        <XCUIElementTypeSplitGroup elementType="64" identifier="" label="" title="" enabled="false" selected="false" x="743" y="213" width="1000" height="700">
+            <XCUIElementTypeImage elementType="43" identifier="" label="badge number red" title="" enabled="true" selected="false" x="769" y="296" width="20" height="25"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="342" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="678" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="678" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="622" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="622" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="510" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="510" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="454" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="454" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="398" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="398" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="846" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="846" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="734" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="734" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="790" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="790" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="742" y="566" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="red point icon" title="" enabled="true" selected="false" x="742" y="566" width="2" height="2"></XCUIElementTypeImage>
+            <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="754" y="248" width="38" height="38"></XCUIElementTypeImage>
+            <XCUIElementTypeButton elementType="9" identifier="" label="" title="" enabled="true" selected="false" x="754" y="248" width="62" height="38"></XCUIElementTypeButton>
+            <XCUIElementTypeSplitter elementType="65" identifier="" value="60" label="" title="" enabled="false" selected="false" x="803" y="241" width="0" height="672"></XCUIElementTypeSplitter>
+            <XCUIElementTypeSplitGroup elementType="64" identifier="" label="" title="" enabled="false" selected="false" x="803" y="213" width="940" height="700">
+                <XCUIElementTypeButton elementType="9" identifier="" label="" title="" enabled="true" selected="false" x="1004" y="228" width="34" height="34"></XCUIElementTypeButton>
+                <XCUIElementTypeTextField elementType="49" identifier="" label="" title="" enabled="true" selected="false" x="818" y="228" width="180" height="34"></XCUIElementTypeTextField>
+                <XCUIElementTypeScrollView elementType="46" identifier="" label="" title="" enabled="false" selected="false" x="803" y="269" width="250" height="644">
+                    <XCUIElementTypeTable elementType="26" identifier="" label="" title="" enabled="true" selected="false" x="802" y="268" width="252" height="1162">
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="269" width="250" height="8">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="269" width="250" height="8"></XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="277" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="277" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="288" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="【富途公有云基础】腾讯云VIP" label="" title="" enabled="true" selected="false" x="868" y="289" width="92" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="[610 messages] 技术顾问: 尊敬的腾讯云客户您好，您反馈的问题已得到解决，需要您确认结单并评价！ 问题描述：cos,监控指标有延迟，对应的cos告警是否也会有延迟 方案建议： 【咨询结论】COS监控指标延迟，COS告警确实也会有延迟。监控指标的延迟主要是因为数据统计和处理的周期不同，具体如下： 1分钟粒度指标：延迟5-7分钟。 5分钟粒度指标：延迟2小时。 因此，告警规则的触发也会受到这些延迟的影响。例如，如果你设置的告警规则是基于5分钟粒度的指标，那么在实际情况中，告警可能会在数据延迟2小时后才触发 此链接无需登录，点击即可评价：https://andon.cloud.tencent.com/keyaccount/feedback/?id=13863578&amp;key=caa8e7d3d0944af93ff99672d399446d8957e 【以上信息如有疑问，请联系您的专属服务经理】" label="" title="" enabled="true" selected="false" x="868" y="312" width="119" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="340" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="1020" y="292" width="14" height="14"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="22:26" label="" title="" enabled="true" selected="false" x="1001" y="312" width="35" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="965" y="293" width="40" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="341" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="341" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="352" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="大数据资源和EMR容器方案讨论" label="" title="" enabled="true" selected="false" x="868" y="353" width="92" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="[24 messages] 朱瑜坚: @林岸森 @叶秀猛 不好意思，咱们TKE 这边网络组件的 bug 目前导致这个集群cls-5t9kt7pw 无法创建名字过长（大于64字符）的 Pod，之前计划本周发布解决，但是测试流程略有延期，目前预计需要下周四发布到这个集群。看一下富途侧可以再等一会不？  这个问题好像之前沟通过，pod名称可以临时配置短一点吗？" label="" title="" enabled="true" selected="false" x="868" y="376" width="123" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="404" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="20:11" label="" title="" enabled="true" selected="false" x="1004" y="376" width="32" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="1020" y="356" width="14" height="14"></XCUIElementTypeImage>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="965" y="357" width="40" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="405" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="405" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="416" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="Industry News" label="" title="" enabled="true" selected="false" x="868" y="417" width="95" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="同事们在看《字节All hands上透露的几个信号》" label="" title="" enabled="true" selected="false" x="868" y="440" width="127" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="468" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="9:37" label="" title="" enabled="true" selected="false" x="1008" y="440" width="28" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeButton elementType="9" identifier="" label="" title="2" enabled="false" selected="false" x="852" y="410" width="10" height="18"></XCUIElementTypeButton>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="469" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="469" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="480" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="seanzhang(张建昌)" label="" title="" enabled="true" selected="false" x="868" y="481" width="125" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="" label="" title="" enabled="true" selected="false" x="868" y="504" width="102" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="532" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="Saturday" label="" title="" enabled="true" selected="false" x="983" y="504" width="53" height="18"></XCUIElementTypeStaticText>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="533" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="533" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="icon conversation phone" title="" enabled="true" selected="false" x="818" y="544" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="File Transfer" label="" title="" enabled="true" selected="false" x="868" y="545" width="82" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="Logged in to WeCom on computer. Files, photos, and messages sent here can be received on computer." label="" title="" enabled="true" selected="false" x="868" y="568" width="102" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="596" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="Saturday" label="" title="" enabled="true" selected="false" x="983" y="568" width="53" height="18"></XCUIElementTypeStaticText>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="597" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="597" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="icon avatar rtxteam" title="" enabled="true" selected="false" x="818" y="608" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="WeCom Team" label="" title="" enabled="true" selected="false" x="868" y="609" width="92" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="登录操作通知" label="" title="" enabled="true" selected="false" x="868" y="632" width="102" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="660" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="Saturday" label="" title="" enabled="true" selected="false" x="983" y="632" width="53" height="18"></XCUIElementTypeStaticText>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="661" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="661" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="672" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="富途超级节点测试小群" label="" title="" enabled="true" selected="false" x="868" y="673" width="120" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="yunhliu: thanks" label="" title="" enabled="true" selected="false" x="868" y="696" width="117" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="724" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="Friday" label="" title="" enabled="true" selected="false" x="999" y="696" width="37" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="993" y="677" width="40" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="725" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="725" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="736" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="vaneliang(梁文红)" label="" title="" enabled="true" selected="false" x="868" y="737" width="116" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="You recalled a message" label="" title="" enabled="true" selected="false" x="868" y="760" width="117" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="788" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="Friday" label="" title="" enabled="true" selected="false" x="999" y="760" width="37" height="18"></XCUIElementTypeStaticText>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="789" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="789" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="800" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="富途 default scheduler调度策略权重配置 内部API方案" label="" title="" enabled="true" selected="false" x="868" y="801" width="92" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="刘田龙: @zebhuang(黄汉波) done" label="" title="" enabled="true" selected="false" x="868" y="824" width="128" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="852" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2/10" label="" title="" enabled="true" selected="false" x="1009" y="824" width="27" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="965" y="805" width="40" height="12"></XCUIElementTypeTextView>
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="1020" y="804" width="14" height="14"></XCUIElementTypeImage>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="853" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="853" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="864" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="TKE富途" label="" title="" enabled="true" selected="false" x="868" y="865" width="58" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="zebhuang: 好的，感谢@李全江" label="" title="" enabled="true" selected="false" x="868" y="888" width="133" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="916" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2/8" label="" title="" enabled="true" selected="false" x="1015" y="888" width="21" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="1020" y="868" width="14" height="14"></XCUIElementTypeImage>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="931" y="869" width="40" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="917" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="917" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="928" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="富途 原生节点测试小群" label="" title="" enabled="true" selected="false" x="868" y="929" width="92" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="李全江: @dansxu(许丹侠) 嗯嗯" label="" title="" enabled="true" selected="false" x="868" y="952" width="133" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="980" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="1020" y="932" width="14" height="14"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2/8" label="" title="" enabled="true" selected="false" x="1015" y="952" width="21" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="965" y="933" width="40" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="981" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="981" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="992" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="Possible business partners" label="" title="" enabled="true" selected="false" x="868" y="993" width="168" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="添加陈钰祺@招商银行，相互展现更丰富的信息" label="" title="" enabled="true" selected="false" x="868" y="1016" width="130" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="1044" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="1/15" label="" title="" enabled="true" selected="false" x="1011" y="1016" width="25" height="18"></XCUIElementTypeStaticText>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="1045" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="1045" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="1056" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="【客户群】【13543385】【TKE， cls-ktvgv5cg集群下部分节点访问超时，" label="" title="" enabled="true" selected="false" x="868" y="1057" width="120" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="The above is 2 attached chat records" label="" title="" enabled="true" selected="false" x="868" y="1080" width="89" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="1108" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2024/12/12" label="" title="" enabled="true" selected="false" x="971" y="1080" width="65" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="993" y="1061" width="40" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="1109" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="1109" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="1120" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="富途" label="" title="" enabled="true" selected="false" x="868" y="1121" width="30" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="haohangliu recalled a message" label="" title="" enabled="true" selected="false" x="868" y="1144" width="95" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="1172" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2024/12/6" label="" title="" enabled="true" selected="false" x="976" y="1144" width="60" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="1020" y="1124" width="14" height="14"></XCUIElementTypeImage>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="All" label="" title="" enabled="false" selected="false" x="903" y="1125" width="13" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="1173" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="1173" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="1184" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="【富途】NetworkInterfaceClass需求沟通" label="" title="" enabled="true" selected="false" x="868" y="1185" width="120" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="The above is 3 attached chat records" label="" title="" enabled="true" selected="false" x="868" y="1208" width="91" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="1236" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2024/11/19" label="" title="" enabled="true" selected="false" x="972" y="1208" width="64" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="993" y="1189" width="40" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="1237" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="1237" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="1248" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="富途TCR realm 返回自定义域名问题" label="" title="" enabled="true" selected="false" x="868" y="1249" width="120" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="The above is 30 attached chat records" label="" title="" enabled="true" selected="false" x="868" y="1272" width="93" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="1300" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2024/8/29" label="" title="" enabled="true" selected="false" x="974" y="1272" width="62" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="993" y="1253" width="40" height="12"></XCUIElementTypeTextView>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="1301" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="1301" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="1312" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="【合作-富途】TIC资源编排技术交流" label="" title="" enabled="true" selected="false" x="868" y="1313" width="92" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="" label="" title="" enabled="true" selected="false" x="868" y="1336" width="96" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="1364" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2024/1/18" label="" title="" enabled="true" selected="false" x="978" y="1336" width="58" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="965" y="1317" width="40" height="12"></XCUIElementTypeTextView>
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="1020" y="1316" width="14" height="14"></XCUIElementTypeImage>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableRow elementType="27" identifier="" label="" title="" enabled="false" selected="false" x="803" y="1365" width="250" height="64">
+                            <XCUIElementTypeCell elementType="75" identifier="" label="" title="" enabled="true" selected="false" x="803" y="1365" width="250" height="64">
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="818" y="1376" width="42" height="42"></XCUIElementTypeImage>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="富途 TCR 专项支持小群" label="" title="" enabled="true" selected="false" x="868" y="1377" width="92" height="20"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="" label="" title="" enabled="true" selected="false" x="868" y="1400" width="95" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="819" y="1428" width="218" height="1"></XCUIElementTypeGroup>
+                                <XCUIElementTypeStaticText elementType="48" identifier="" value="2023/3/15" label="" title="" enabled="true" selected="false" x="976" y="1400" width="60" height="18"></XCUIElementTypeStaticText>
+                                <XCUIElementTypeTextView elementType="52" identifier="" value="External" label="" title="" enabled="false" selected="false" x="965" y="1381" width="40" height="12"></XCUIElementTypeTextView>
+                                <XCUIElementTypeImage elementType="43" identifier="" label="" title="" enabled="true" selected="false" x="1020" y="1380" width="14" height="14"></XCUIElementTypeImage>
+                            </XCUIElementTypeCell>
+                        </XCUIElementTypeTableRow>
+                        <XCUIElementTypeTableColumn elementType="28" identifier="col1" label="" title="" enabled="false" selected="false" x="803" y="269" width="250" height="1160"></XCUIElementTypeTableColumn>
+                    </XCUIElementTypeTable>
+                    <XCUIElementTypeScrollBar elementType="47" identifier="" value="0" label="" title="" enabled="true" selected="false" x="1037" y="268" width="17" height="646">
+                        <XCUIElementTypeValueIndicator elementType="63" identifier="" value="0" label="" title="" enabled="false" selected="false" x="1038" y="271" width="15" height="355"></XCUIElementTypeValueIndicator>
+                        <XCUIElementTypeIncrementArrow elementType="59" identifier="" label="" title="" enabled="false" selected="false" x="1038" y="269" width="0" height="0"></XCUIElementTypeIncrementArrow>
+                        <XCUIElementTypeDecrementArrow elementType="60" identifier="" label="" title="" enabled="false" selected="false" x="1038" y="269" width="0" height="0"></XCUIElementTypeDecrementArrow>
+                        <XCUIElementTypeButton elementType="9" identifier="" label="" title="" enabled="false" selected="false" x="1038" y="626" width="15" height="287"></XCUIElementTypeButton>
+                        <XCUIElementTypeButton elementType="9" identifier="" label="" title="" enabled="false" selected="false" x="1038" y="269" width="15" height="2"></XCUIElementTypeButton>
+                    </XCUIElementTypeScrollBar>
+                </XCUIElementTypeScrollView>
+                <XCUIElementTypeSplitter elementType="65" identifier="" value="250" label="" title="" enabled="false" selected="false" x="1053" y="241" width="1" height="672"></XCUIElementTypeSplitter>
+                <XCUIElementTypeImage elementType="43" identifier="" label="background empty contact" title="" enabled="true" selected="false" x="1337" y="502" width="122" height="122"></XCUIElementTypeImage>
+            </XCUIElementTypeSplitGroup>
+        </XCUIElementTypeSplitGroup>
+        <XCUIElementTypeButton elementType="9" identifier="_XCUI:CloseWindow" label="" title="" enabled="true" selected="false" x="747" y="217" width="16" height="16"></XCUIElementTypeButton>
+        <XCUIElementTypeButton elementType="9" identifier="_XCUI:FullScreenWindow" label="" title="" enabled="true" selected="false" x="783" y="217" width="16" height="16">
+            <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="784" y="217" width="14" height="16">
+                <XCUIElementTypeGroup elementType="3" identifier="" label="" title="" enabled="false" selected="false" x="784" y="217" width="14" height="16"></XCUIElementTypeGroup>
+            </XCUIElementTypeGroup>
+        </XCUIElementTypeButton>
+        <XCUIElementTypeButton elementType="9" identifier="_XCUI:MinimizeWindow" label="" title="" enabled="true" selected="false" x="765" y="217" width="16" height="16"></XCUIElementTypeButton>
+    </XCUIElementTypeWindow>
+    <XCUIElementTypeMenuBar elementType="55" identifier="_NS:30" label="" title="" enabled="true" selected="false" x="0" y="0" width="1920" height="24">
+        <XCUIElementTypeMenuBarItem elementType="56" identifier="" label="" title="Apple" enabled="true" selected="false" x="10" y="0" width="34" height="24">
+            <XCUIElementTypeMenu elementType="53" identifier="" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                <XCUIElementTypeMenuItem elementType="54" identifier="_aboutThisMacRequested:" label="" title="About This Mac" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_systemInformationRequested:" label="" title="System Information" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_systemSettingsRequested:" label="" title="System Settings…, 1 update" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_appStoreRequested:" label="" title="App Store" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_recentsRequested:" label="" title="Recent Items" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                    <XCUIElementTypeMenu elementType="53" identifier="" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="Applications" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Accessibility Inspector" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “Accessibility Inspector” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Clash Verge" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “Clash Verge” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Feishu" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “Feishu” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Preview" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “Preview” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Sublime Text" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “Sublime Text” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="System Settings" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “System Settings” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Tips" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “Tips” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="WeChat" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “WeChat” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="WeCom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “WeCom” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Xcode" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “Xcode” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="Documents" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="argo-cd" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “argo-cd” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="fcloud-stat" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “fcloud-stat” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="gitops-controller" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “gitops-controller” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="gitops-shell" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “gitops-shell” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="goldfish" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “goldfish” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="lambda.scm" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “lambda.scm” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="sample-apiserver" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “sample-apiserver” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="TalkWise" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “TalkWise” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="users.jpg" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “users.jpg” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="wework" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="Show “wework” in Finder" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="Servers" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_recentItemRequested:" label="" title="[C] Windows 7" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_clearRecentItemsRequested:" label="" title="Clear Menu" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                    </XCUIElementTypeMenu>
+                </XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_forceQuitPanelRequested:" label="" title="Force Quit…" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_forceQuitRequested:" label="" title="Force Quit WeCom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_sleepRequested:" label="" title="Sleep" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_restartRequested:" label="" title="Restart…" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_restartNowRequested:" label="" title="Restart" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_shutDownRequested:" label="" title="Shut Down…" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_shutDownNowRequested:" label="" title="Shut Down" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_lockScreenRequested:" label="" title="Lock Screen" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_logOutRequested:" label="" title="Log Out edenz…" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_logOutNowRequested:" label="" title="Log Out edenz" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+            </XCUIElementTypeMenu>
+        </XCUIElementTypeMenuBarItem>
+        <XCUIElementTypeMenuBarItem elementType="56" identifier="_NS:35" label="" title="WeCom" enabled="true" selected="false" x="44" y="0" width="70" height="24">
+            <XCUIElementTypeMenu elementType="53" identifier="_NS:49" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:53" label="" title="About WeCom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:65" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:66" label="" title="Network Settings" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:70" label="" title="Settings…" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:75" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:76" label="" title="Hide WeCom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:81" label="" title="Hide Others" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:85" label="" title="Show All" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:89" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:90" label="" title="Quit WeCom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="NSAlternateQuitMenuItem" label="" title="Quit and Keep Windows" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+            </XCUIElementTypeMenu>
+        </XCUIElementTypeMenuBarItem>
+        <XCUIElementTypeMenuBarItem elementType="56" identifier="_NS:96" label="" title="Edit" enabled="true" selected="false" x="114" y="0" width="44" height="24">
+            <XCUIElementTypeMenu elementType="53" identifier="_NS:100" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:104" label="" title="Undo" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:109" label="" title="Redo" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:114" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:115" label="" title="Cut" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:120" label="" title="Copy" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:125" label="" title="Paste" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:130" label="" title="Delete" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:134" label="" title="Select All" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:139" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:140" label="" title="Search" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:145" label="" title="Global Search" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:149" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NSMenuItemAutoFillIdentifier" label="" title="AutoFill" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                    <XCUIElementTypeMenu elementType="53" identifier="" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_handleInsertFromContactsCommand:" label="" title="Contact…" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_handleInsertFromPasswordsCommand:" label="" title="Passwords…" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                    </XCUIElementTypeMenu>
+                </XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="startDictation:" label="" title="Start Dictation…" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="orderFrontCharacterPalette:" label="" title="Emoji &amp; Symbols" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+            </XCUIElementTypeMenu>
+        </XCUIElementTypeMenuBarItem>
+        <XCUIElementTypeMenuBarItem elementType="56" identifier="_NS:150" label="" title="Window" enabled="true" selected="false" x="158" y="0" width="69" height="24">
+            <XCUIElementTypeMenu elementType="53" identifier="_NS:154" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:158" label="" title="Minimize" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="miniaturizeAll:" label="" title="Minimize All" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:163" label="" title="Zoom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="zoomAll:" label="" title="Zoom All" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_zoomFill:" label="" title="Fill" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_zoomCenter:" label="" title="Center" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="Move &amp; Resize" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                    <XCUIElementTypeMenu elementType="53" identifier="" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="Halves" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomLeft:" label="" title="Left" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomRight:" label="" title="Right" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomTop:" label="" title="Top" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomBottom:" label="" title="Bottom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="Quarters" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomTopLeft:" label="" title="Top Left" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomTopRight:" label="" title="Top Right" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomBottomLeft:" label="" title="Bottom Left" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomBottomRight:" label="" title="Bottom Right" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="Arrange" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomLeftAndRight:" label="" title="Left &amp; Right" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomLeftThreeUp:" label="" title="Left &amp; Quarters" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomRightAndLeft:" label="" title="Right &amp; Left" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomRightThreeUp:" label="" title="Right &amp; Quarters" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomTopAndBottom:" label="" title="Top &amp; Bottom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomTopThreeUp:" label="" title="Top &amp; Quarters" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomBottomAndTop:" label="" title="Bottom &amp; Top" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomBottomThreeUp:" label="" title="Bottom &amp; Quarters" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomQuarters:" label="" title="Quarters" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_zoomUntile:" label="" title="Return to Previous Size" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                    </XCUIElementTypeMenu>
+                </XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="Full Screen Tile" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                    <XCUIElementTypeMenu elementType="53" identifier="" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_tileLeft:" label="" title="Left of Screen" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                        <XCUIElementTypeMenuItem elementType="54" identifier="_tileRight:" label="" title="Right of Screen" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                    </XCUIElementTypeMenu>
+                </XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_removeWindowFromStageManagerSet:" label="" title="Remove Window from Set" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:167" label="" title="Close" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="closeAll:" label="" title="Close All" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:172" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:173" label="" title="Enter Full Screen mode" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:177" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:178" label="" title="Select Next Chat Message" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:183" label="" title="Select Previous Chat Message" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:188" label="" title="Select Next Unread Chat Message" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="" label="" title="" enabled="false" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+                <XCUIElementTypeMenuItem elementType="54" identifier="makeKeyAndOrderFront:" label="" title="WeCom" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+            </XCUIElementTypeMenu>
+        </XCUIElementTypeMenuBarItem>
+        <XCUIElementTypeMenuBarItem elementType="56" identifier="_NS:193" label="" title="Help" enabled="true" selected="false" x="227" y="0" width="48" height="24">
+            <XCUIElementTypeMenu elementType="53" identifier="_NS:197" label="" title="" enabled="true" selected="false" x="0" y="1080" width="0" height="0">
+                <XCUIElementTypeMenuItem elementType="54" identifier="_NS:205" label="" title="Help Center" enabled="true" selected="false" x="0" y="1080" width="0" height="0"></XCUIElementTypeMenuItem>
+            </XCUIElementTypeMenu>
+        </XCUIElementTypeMenuBarItem>
+    </XCUIElementTypeMenuBar>
+    <XCUIElementTypeTouchBar elementType="81" identifier="" label="" title="" enabled="false" selected="false" x="80" y="0" width="685" height="30"></XCUIElementTypeTouchBar>
+    <XCUIElementTypeMenuBar elementType="55" identifier="" label="" title="" enabled="true" selected="false" x="1148" y="0" width="42" height="24">
+        <XCUIElementTypeStatusItem elementType="82" identifier="" label="" title="2" enabled="true" selected="false" x="1148" y="0" width="42" height="24"></XCUIElementTypeStatusItem>
+    </XCUIElementTypeMenuBar>
+</XCUIElementTypeApplication>
